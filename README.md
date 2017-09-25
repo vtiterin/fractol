@@ -2,8 +2,8 @@
 It is my second graphic project, which I developed for my learning course at UNIT.
 The aim of the project is to create a small fractal exploration program.
 
-<img align = "left" src = "mandelbrot.jpg" width = "50%"/>
-<img align = "right" src = "Julia.png" width = "50%"/>
+<img align = "center" src = "mandelbrot.jpg" width = "50%"/>
+<img align = "center" src = "Julia.png" width = "50%"/>
 
 ### Subject: [fract_ol.en.pdf][1]
 
